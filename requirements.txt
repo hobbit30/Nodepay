@@ -1,0 +1,6 @@
+aiohttp
+curl-cffi
+aiohttp-socks
+fake-useragent
+colorama
+pytz
