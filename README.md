@@ -37,6 +37,11 @@ Note: auto connects 3 connections if u using proxies choose [ 1 ] or [ 2 ] and o
 ## Configuration
 
 - **tokens.txt:** You will find the `tokens.txt` inside the project directory. Make sure contains data that matches the format expected by the script. Here are examples of file formats:
+  Single account
+  ```bash
+    eyj...xyz
+  ```
+  Multi Accounts
   ```bash
     eyj...xyz1
     eyj...xyz2
