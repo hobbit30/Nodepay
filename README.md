@@ -37,7 +37,8 @@ Note: auto connects 3 connections if u using proxies choose [ 1 ] or [ 2 ] and o
 ## Configuration
 
 - **tokens.txt:** You will find the `tokens.txt` inside the project directory. Make sure contains data that matches the format expected by the script. Here are examples of file formats:
-  Single account
+
+   Single account
   ```bash
     eyj...xyz
   ```
@@ -47,7 +48,7 @@ Note: auto connects 3 connections if u using proxies choose [ 1 ] or [ 2 ] and o
     eyj...xyz2
   ```
 
-- **proxy.txt:** You will find the file `proxy.txt` inside the project directory. Make sure `proxy.txt` contains data that matches the format expected by the script. Here are examples of file formats:
+- **proxy.txt:** You will find the file `proxy.txt` inside the project directory. Make sure contains data that matches the format expected by the script. Here are examples of file formats:
   ```bash
     ip:port # Default Protcol HTTP.
     protocol://ip:port
