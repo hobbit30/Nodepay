@@ -66,4 +66,4 @@ Run this bot, use my referral code if you don't have one.
 You can just run this bot at your own risk, I'm not responsible for any loss or damage caused by this bot.
 This bot is for educational purposes only.
 
-**si64rt**
+**As@30**
