@@ -13,7 +13,7 @@ Nodepay BOT
   - Auto Complete Available Tasks
   - Auto Get Account Information
     
-Note: auto connects 3 connections if u using proxies choose [1] or [2] and only 1 connection if choose [ 3 ].
+Note: auto connects 3 connections if u using proxies choose [ 1 ] or [ 2 ] and only 1 connection if choose [ 3 ].
 
 ## Requiremnets
 
